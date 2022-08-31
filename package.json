@@ -1,0 +1,20 @@
+{
+  "name": "avoidobstacles",
+  "version": "1.0.0",
+  "description": "You are given an array of integers representing coordinates of obstacles situated on a straight line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/avoidObstacles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/avoidObstacles/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/avoidObstacles#readme"
+}
